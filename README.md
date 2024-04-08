@@ -1,4 +1,8 @@
-# vis-timeline
+# vis-timeline - FORK
+
+**NOTE:** This is a fork of the original vis-timeline found here: https://github.com/visjs/vis-timeline
+
+---
 
 ![example chart](docs/img/timeline.png)
 
