@@ -1,5 +1,5 @@
 {
-  "name": "@chrisandersonfv/vis-timeline",
+  "name": "@anderson-fv/vis-timeline",
   "version": "1.0.0",
   "description": "Create a fully customizable, interactive timeline with items and ranges.",
   "homepage": "https://visjs.github.io/vis-timeline/",
@@ -140,6 +140,7 @@
     "Ben Foster <bpfoster@gmail.com>",
     "Chris Sand <ccsand@hotmail.com>",
     "Nikola Gluhovic <chiari.show@gmail.com>",
+    "ChrisAndersonFV <chrisanderson@filevine.com>",
     "Coleman Kane <ckane@colemankane.org>",
     "Eric Kitaif <eric.kitaif@gmail.com>",
     "David Anderson <eymiha@gmail.com>",
@@ -154,7 +155,6 @@
     "apwidejulien <51111685+apwidejulien@users.noreply.github.com>",
     "Glandos <bugs-github@antipoul.fr>",
     "Chen Machluf <chen.machluf@gmail.com>",
-    "ChrisAndersonFV <chrisanderson@filevine.com>",
     "Martin Reinhardt <contact@martinreinhardt-online.de>",
     "Chris Dituri <csdituri@gmail.com>",
     "Dean Attali <daattali@gmail.com>",
